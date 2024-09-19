@@ -10,7 +10,7 @@
 - построен дашборд в Tableau, добавлена фильтрация по всему дашборду.
 
 Файлы проекта:
-- Hospitality - данные, предоставленные заказчиком; csv
+- Hospitality - данные, предоставленные заказчиком; .csv
 - Hospitality_Overview - канва с описанием задачи, предполагаемых пользователей, вопросов, которые решает дашборд, описанием структуры дашборда и его блоков; .pptx
 - Dashboard_Hospitality_Overview - дашборд; .twbx, tableau workbook
 - [Ссылка на веб-версию дашборда](https://public.tableau.com/views/2variant_HospitalityOverview/HospitalityOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
